@@ -1,0 +1,11 @@
+<tienda>
+    <clientesList>
+        <clientes>
+            <nombre>Marco</nombre>
+            <direccion>Calle Maya</direccion>
+            <pedidos></pedidos>
+        </clientes>
+    </clientesList>
+    <productosList></productosList>
+    <pedidosList></pedidosList>
+</tienda>
